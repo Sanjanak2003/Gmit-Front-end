@@ -1,0 +1,5 @@
+[
+    { "name": "Tomato", "price": 1.99, "image": "/images/tomato.jpg" },
+    { "name": "Carrot", "price": 2.49, "image": "/images/carrot.jpg" }
+  ]
+  

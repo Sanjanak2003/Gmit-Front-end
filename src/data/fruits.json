@@ -1,0 +1,5 @@
+[
+    { "name": "Apple", "price": 2.99, "image": "/images/apple.jpg" },
+    { "name": "Banana", "price": 1.49, "image": "/images/banana.jpg" }
+  ]
+  
